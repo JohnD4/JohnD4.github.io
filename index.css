@@ -1,0 +1,82 @@
+body {
+    margin: 0%;
+    background-color: rgb(0, 0, 0);
+}
+
+h1 {
+    color: rgb(177, 24, 24);
+    border: solid 18px;
+    text-align: center;
+    font-size: 150px;
+    margin-top: 0%;
+    line-height: 150px;
+}
+
+h2 {
+    color:rgb(177, 24, 24);
+    margin-top: -85px;
+    margin-left: 5px;
+    text-align: center;
+}
+
+#TheEye {
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 10px;
+
+}
+
+h3 {
+    color:rgb(177, 24, 24);
+    font-size: 40px;
+    margin-left: 25px;
+}
+
+.intro {
+    color:rgb(177, 24, 24);
+    font-size: 24px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: -20px;
+}
+
+#poster1 {
+    display: inline-block;
+    margin-left: 3%;
+    margin-top: 20px;
+    width: 30%;
+}
+
+#poster {
+    display: inline-block;
+    margin-left: 3%;
+    margin-top: 20px;
+    width: 30%;
+}
+
+#poster3 {
+    display: inline-block;
+    margin-left: 3%;
+    margin-top: 20px;
+    width: 30%;
+}
+
+h4 {
+    color:rgb(177, 24, 24);
+    font-size: 40px;
+    margin-left: 25px;
+}
+
+.background {
+    color:rgb(177, 24, 24);
+    font-size: 24px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: -30px;
+}
+
+#screen {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 10px;
+}
